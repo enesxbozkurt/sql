@@ -1,2 +1,0 @@
-# sql
-Veri Tabanı
